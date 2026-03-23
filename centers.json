@@ -1,0 +1,224 @@
+{
+  "Nairobi": {
+    "Starehe": {
+      "name": "Starehe IEBC Constituency Office",
+      "address": "Anniversary Towers, Kenyatta Avenue, Nairobi CBD",
+      "coords": [-1.2864, 36.8172],
+      "phone": "020 2222152",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 500,
+      "load": "Medium",
+      "wheelchair": true
+    },
+    "Westlands": {
+      "name": "Westlands Social Hall",
+      "address": "Waiyaki Way, near Westlands Market, Nairobi",
+      "coords": [-1.2633, 36.8028],
+      "phone": "020 4441234",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 300,
+      "load": "High",
+      "wheelchair": true
+    },
+    "Kasarani": {
+      "name": "Kasarani Youth Centre",
+      "address": "Thika Road, opposite Kasarani Stadium, Nairobi",
+      "coords": [-1.2327, 36.8953],
+      "phone": "020 8889990",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 400,
+      "load": "Low",
+      "wheelchair": true
+    },
+    "Langata": {
+      "name": "Langata IEBC Hub",
+      "address": "Langata Road, near Galleria Mall, Nairobi",
+      "coords": [-1.3647, 36.7456],
+      "phone": "020 7771234",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 350,
+      "load": "Medium",
+      "wheelchair": true
+    },
+    "Dagoretti": {
+      "name": "Dagoretti Social Centre",
+      "address": "Dagoretti Corner, Naivasha Road, Nairobi",
+      "coords": [-1.2935, 36.7602],
+      "phone": "020 5556789",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 280,
+      "load": "High",
+      "wheelchair": false
+    }
+  },
+  "Mombasa": {
+    "Mvita": {
+      "name": "Mvita IEBC Registration Hub",
+      "address": "Digo Road, opposite Post Office, Mombasa CBD",
+      "coords": [-4.0632, 39.6705],
+      "phone": "041 2222152",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 450,
+      "load": "High",
+      "wheelchair": true
+    },
+    "Nyali": {
+      "name": "Nyali Civic Centre",
+      "address": "Links Road, Nyali, Mombasa",
+      "coords": [-4.0283, 39.7117],
+      "phone": "041 5556667",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 320,
+      "load": "Medium",
+      "wheelchair": true
+    },
+    "Changamwe": {
+      "name": "Changamwe IEBC Office",
+      "address": "Changamwe Roundabout, Mombasa",
+      "coords": [-4.0219, 39.6264],
+      "phone": "041 8889991",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 280,
+      "load": "Low",
+      "wheelchair": true
+    },
+    "Likoni": {
+      "name": "Likoni Sub-County Hall",
+      "address": "Likoni Ferry Terminal, Mombasa",
+      "coords": [-4.0967, 39.6725],
+      "phone": "041 3334445",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 400,
+      "load": "High",
+      "wheelchair": false
+    }
+  },
+  "Kisumu": {
+    "Kisumu Central": {
+      "name": "Kisumu Central IEBC HQ",
+      "address": "Oginga Odinga Street, Kisumu CBD",
+      "coords": [-0.1022, 34.7524],
+      "phone": "057 2222152",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 600,
+      "load": "High",
+      "wheelchair": true
+    },
+    "Kisumu East": {
+      "name": "Kisumu East Social Hall",
+      "address": "Kisumu - Busia Road, Kisumu",
+      "coords": [-0.0891, 34.7658],
+      "phone": "057 4445556",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 350,
+      "load": "Medium",
+      "wheelchair": true
+    },
+    "Nyando": {
+      "name": "Nyando IEBC Centre",
+      "address": "Ahero Town, near Market, Kisumu County",
+      "coords": [-0.1745, 34.9132],
+      "phone": "057 7778889",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 300,
+      "load": "Low",
+      "wheelchair": true
+    }
+  },
+  "Uasin Gishu": {
+    "Eldoret East": {
+      "name": "Eldoret Town Hall",
+      "address": "Uganda Road, Eldoret CBD",
+      "coords": [0.5143, 35.2698],
+      "phone": "053 2222152",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 500,
+      "load": "High",
+      "wheelchair": true
+    },
+    "Eldoret North": {
+      "name": "Kapsoya IEBC Centre",
+      "address": "Kapsoya Estate, near Zion Mall, Eldoret",
+      "coords": [0.5289, 35.2791],
+      "phone": "053 3334445",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 380,
+      "load": "Medium",
+      "wheelchair": true
+    },
+    "Soy": {
+      "name": "Soy Sub-County Office",
+      "address": "Soy Town, near Chief's Camp, Uasin Gishu",
+      "coords": [0.6152, 35.1473],
+      "phone": "053 5556667",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 250,
+      "load": "Low",
+      "wheelchair": false
+    }
+  },
+  "Kiambu": {
+    "Kiambu Town": {
+      "name": "Kiambu County IEBC Hall",
+      "address": "Kiambu Road, next to Kiambu Institute, Kiambu",
+      "coords": [-1.1667, 36.8333],
+      "phone": "020 2222153",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 450,
+      "load": "Medium",
+      "wheelchair": true
+    },
+    "Ruiru": {
+      "name": "Ruiru Social Centre",
+      "address": "Ruiru Town, near KCB Bank, Kiambu",
+      "coords": [-1.1471, 36.9603],
+      "phone": "020 7778881",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 400,
+      "load": "High",
+      "wheelchair": true
+    },
+    "Thika": {
+      "name": "Thika IEBC Office",
+      "address": "Thika CBD, Kenyatta Highway, Kiambu",
+      "coords": [-1.0387, 37.0834],
+      "phone": "020 9990001",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 550,
+      "load": "High",
+      "wheelchair": true
+    }
+  },
+  "Nakuru": {
+    "Nakuru Town East": {
+      "name": "Nakuru East IEBC Office",
+      "address": "Kenyatta Avenue, Nakuru CBD",
+      "coords": [-0.3031, 36.0801],
+      "phone": "051 2222152",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 480,
+      "load": "High",
+      "wheelchair": true
+    },
+    "Nakuru Town West": {
+      "name": "Lake View IEBC Centre",
+      "address": "Oginga Odinga Road, Nakuru",
+      "coords": [-0.2978, 36.0723],
+      "phone": "051 3334445",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 420,
+      "load": "Medium",
+      "wheelchair": true
+    },
+    "Naivasha": {
+      "name": "Naivasha Sub-County Hall",
+      "address": "Moi Avenue, Naivasha Town, Nakuru",
+      "coords": [-0.7170, 36.4329],
+      "phone": "051 5556667",
+      "hours": "8:00 AM - 5:00 PM",
+      "capacity": 350,
+      "load": "Low",
+      "wheelchair": true
+    }
+  }
+}
